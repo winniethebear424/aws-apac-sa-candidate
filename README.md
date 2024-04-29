@@ -20,3 +20,6 @@ aws-apac-sa-candidate; aws; amazon web services; solutions architect; cloud arch
 Lucian Maly ~~<<lucian.maly@oracle.com>>~~
 
 [@LucianMaly](https://twitter.com/LucianMaly) on Twitter
+
+
+LAMP Stack
